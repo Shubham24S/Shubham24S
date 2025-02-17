@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Shanbhag</h1>
-<h3 align="center">Final Year Engineering Student from Mumbai, India. Smart India Hackathon 2023 WINNER</h3>
+<h3 align="center">Final Year Engineering Student from Mumbai, India. Smart India Hackathon 2023 & 2024 WINNER</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
